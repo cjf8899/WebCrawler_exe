@@ -14,7 +14,7 @@ Google and Naver crawl sequentially.<br>
 * If you download another chromedriver, replace it with the repo's chromedriver.<br>
 
 
-Download git and install module
+# Download git and install module
 ```Shell
 git clone https://github.com/cjf8899/Crawler_exe.git
 
@@ -48,7 +48,7 @@ the structures would like
     ...
 ```
 
-Enter the main.exe file and run it!
+# Enter the main.exe file and run it!
 
 
 ## Development Environment
