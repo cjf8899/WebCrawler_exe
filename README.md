@@ -1,6 +1,5 @@
 # Auto_Crawler.exe
-It is a code that can be executed directly as a code and can be used by converting it into an executable file.<br>
-Google and Naver crawl sequentially.<br>
+It is a code that can be crawled on Google and Naver, and can be executed directly as a code, and can be converted into an executable file and used.
 
 
 ## Demo
