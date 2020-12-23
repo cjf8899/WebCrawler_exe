@@ -8,7 +8,7 @@ Google and Naver crawl sequentially.<br>
 
 ## Getting Started
 Check your chrome version and download the correct chromedriver for your version<br>
-[Check chrome version](chrome://settings/help)<br>
+Check your chrome version link --> chrome://settings/help <br>
 [Other chromedriver download](https://chromedriver.chromium.org/downloads)
 The chromedriver included in the repo is 87.0.4280.88<br>
 If you download another chromedriver, replace it with the repo's chromedriver.<br>
