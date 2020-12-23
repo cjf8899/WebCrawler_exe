@@ -7,11 +7,11 @@ Google and Naver crawl sequentially.<br>
 <p align="center"><img src="./img/Demo.gif" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 ## Getting Started
-Check your chrome version and download the correct chromedriver for your version<br>
-Check your chrome version link --> chrome://settings/help <br>
-[Other chromedriver download](https://chromedriver.chromium.org/downloads)
-The chromedriver included in the repo is 87.0.4280.88<br>
-If you download another chromedriver, replace it with the repo's chromedriver.<br>
+* Check your chrome version and download the correct chromedriver for your version<br>
+* Check your chrome version link --> chrome://settings/help <br>
+* Other chromedriver download link --> https://chromedriver.chromium.org/downloads<br>
+* The chromedriver included in the repo is 87.0.4280.88<br>
+* If you download another chromedriver, replace it with the repo's chromedriver.<br>
 
 
 Download git and install module
