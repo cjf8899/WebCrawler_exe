@@ -38,7 +38,6 @@ the structures would like
       --main.exe
       --chromedriver
         --chromedriver.exe
-    --.gitignore
     --collect_links.py
     --keywords.txt
     --LICENSE
