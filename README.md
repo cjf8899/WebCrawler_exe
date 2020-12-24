@@ -3,7 +3,7 @@ It is a code that can be crawled on Google and Naver, and can be executed direct
 
 
 ## Demo
-<p align="center"><img src="./img/Demo.gif" width="90%" height="90%" title="70px" alt="memoryblock"></p>
+<p align="center"><img src="./Demo.gif" width="90%" height="90%" title="70px" alt="memoryblock"></p>
 
 ## Getting Started
 * Check your chrome version and download the correct chromedriver for your version<br>
