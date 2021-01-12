@@ -1,4 +1,4 @@
-# Auto_Crawler.exe
+# Auto_WebCrawler.exe
 It is a code that can be crawled on Google and Naver, and can be executed directly as a code, and can be converted into an executable file and used.
 
 
