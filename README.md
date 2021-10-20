@@ -15,9 +15,9 @@ It is a code that can be crawled on Google and Naver, and can be executed direct
 
 **Download git and install module**
 ```Shell
-git clone https://github.com/cjf8899/Crawler_exe.git
+git clone https://github.com/cjf8899/WebCrawler_exe.git
 
-cd Crawler_exe
+cd WebCrawler_exe
 
 pip install pyinstaller
 
@@ -31,7 +31,7 @@ cp -r ../chromedriver .
 the structures would like
 
 ```
-~/Crawler_exe/
+~/WebCrawler_exe/
     -- chromedriver
       --chromedriver.exe
     --dist
